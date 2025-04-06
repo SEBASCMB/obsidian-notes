@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Fundamentos/8. Loops.md",
-                "mode": "preview",
+                "file": "Principios SOLID y CLEAN CODE/3. Nombre de variables según tipo de dato.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "8. Loops"
+              "title": "3. Nombre de variables según tipo de dato"
             }
           }
         ]
@@ -168,6 +168,17 @@
   },
   "active": "032b576c09bd2a05",
   "lastOpenFiles": [
+    "Principios SOLID y CLEAN CODE/2. Nombre pronunciable y expresivos.md",
+    "Principios SOLID y CLEAN CODE/3. Nombre de variables según tipo de dato.md",
+    "Principios SOLID y CLEAN CODE/1. Deuda técnica.md",
+    "Java/2. Concatenaciones.md",
+    "Principios SOLID y CLEAN CODE",
+    "Java/1. Tipos de datos.md",
+    "Java/4. Constantes en Java.md",
+    "Java/3. Tipo var en java.md",
+    "README.md",
+    "LICENSE.md",
+    "Fundamentos/8. Loops.md",
     "Fundamentos/7. Condicionales.md",
     "Fundamentos/6. Funciones void - Funciones return.md",
     "Fundamentos/5. Funciones que retornan valores.md",
@@ -175,7 +186,6 @@
     "Fundamentos/3. Arreglos-Arrays.md",
     "Fundamentos/2. Como y que significa realmente crear una variable.md",
     "Fundamentos/1. Como lee el código para un computador.md",
-    "Fundamentos/8. Loops.md",
     "Fundamentos/0. Mentalidad programador.md",
     "Imagenes/Pasted image 20250330133820.png",
     "Imagenes/Pasted image 20250330133742.png",
@@ -185,13 +195,11 @@
     "React",
     "Rust",
     "Goolang",
-    "Java/1. Tipos de datos.md",
     "JavaScript/0. Comentarios.md",
     "Fundamentos",
     "JavaScript/3. Concatenaciones.md",
     "JavaScript/1. Variables.md",
     "JavaScript/2. Consola",
-    "Java/2. Concatenaciones.md",
     "JavaScript",
     "Java",
     "Welcome.md"
