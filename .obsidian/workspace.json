@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/JSON.md",
+                "file": "Java/6. Flujos de control.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "JSON"
+              "title": "6. Flujos de control"
             }
           }
         ]
@@ -168,12 +168,20 @@
   },
   "active": "032b576c09bd2a05",
   "lastOpenFiles": [
+    "Java/1. Tipos de datos.md",
     "Java/2. Concatenaciones.md",
+    "Java/3. Tipo var en java.md",
+    "Java/4. Constantes en Java.md",
+    "Java/5. Variables primitivas.md",
+    "Java/6. Flujos de control.md",
+    "Imagenes/Pasted image 20250414202015.png",
+    "Imagenes/Pasted image 20250414202000.png",
+    "Imagenes/Pasted image 20250414201939.png",
+    "Imagenes/Pasted image 20250414201711.png",
+    "Imagenes/Pasted image 20250414201557.png",
+    "Imagenes/Pasted image 20250414201532.png",
     "Private/JSON.md",
     "Private",
-    "Java/1. Tipos de datos.md",
-    "Java/4. Constantes en Java.md",
-    "Java/3. Tipo var en java.md",
     "Imagenes/Pasted image 20250406200903.png",
     "Imagenes/Pasted image 20250406200834.png",
     "Principios SOLID y CLEAN CODE/7. Principio DRY.md",
@@ -195,16 +203,12 @@
     "Fundamentos/3. Arreglos-Arrays.md",
     "Fundamentos/2. Como y que significa realmente crear una variable.md",
     "Fundamentos/1. Como lee el código para un computador.md",
-    "Fundamentos/0. Mentalidad programador.md",
     "Imagenes/Pasted image 20250330133820.png",
     "Imagenes/Pasted image 20250330133742.png",
-    "Imagenes/Pasted image 20250330133723.png",
     "Imagenes",
-    "JavaScript/2. Consola.md",
     "React",
     "Rust",
     "Goolang",
-    "JavaScript/0. Comentarios.md",
     "Fundamentos",
     "JavaScript/2. Consola",
     "JavaScript",
