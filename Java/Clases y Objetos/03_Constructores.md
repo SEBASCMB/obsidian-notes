@@ -1,4 +1,3 @@
-
 ---
 
 ## ¡Construyendo Cosas en Java con Constructores! 🏗️🏠
@@ -68,3 +67,12 @@ Usar constructores para ponerle las cosas básicas a tu objeto desde el principi
     
 
 ---
+
+## Enlaces Relacionados
+- [[Java.md]]
+- [[Java/Clases y Objetos/01_Clases_y_objetos]]
+- [[Java/Clases y Objetos/02_Atributos_y_metodos_de_clases]]
+- [[Java/Clases y Objetos/04_Modificadores_de_acceso]]
+- [[Java/Clases y Objetos/05_Clases_wrapper]]
+
+#java #clases #constructores

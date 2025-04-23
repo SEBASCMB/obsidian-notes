@@ -1,4 +1,3 @@
-
 ---
 
 ## ¡Aprendiendo sobre Clases y Objetos! 🧱🏠 (Como construir con LEGOs Mágicos)
@@ -153,3 +152,12 @@ System.out.println("¡Luces encendidas! 💡✨");
     
 
 ¡Sigue aprendiendo y construyendo cosas increíbles! 😄🚀
+
+## Enlaces Relacionados
+- [[Java.md]]
+- [[Java/Clases y Objetos/02_Atributos_y_metodos_de_clases]]
+- [[Java/Clases y Objetos/03_Constructores]]
+- [[Java/Clases y Objetos/04_Modificadores_de_acceso]]
+- [[Java/Clases y Objetos/05_Clases_wrapper]]
+
+#java #clases #objetos

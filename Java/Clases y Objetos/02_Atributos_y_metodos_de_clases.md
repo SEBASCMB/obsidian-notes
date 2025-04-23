@@ -1,4 +1,3 @@
-
 ---
 
 ## ¡Construyendo Nuestra Casa Mágica con Código! 🪄🧱
@@ -192,3 +191,12 @@ myHouse.size = 120.5; // ¡Tu lado medirá 120.5! 📏
     
 
 ¡Es como construir con LEGOs! La Clase son las instrucciones, y el Objeto es la figura que armas. ¡Puedes armar muchas figuras diferentes usando las mismas instrucciones! 😄🧱
+
+## Enlaces Relacionados
+- [[Java.md]]
+- [[Java/Clases y Objetos/01_Clases_y_objetos]]
+- [[Java/Clases y Objetos/03_Constructores]]
+- [[Java/Clases y Objetos/04_Modificadores_de_acceso]]
+- [[Java/Clases y Objetos/05_Clases_wrapper]]
+
+#java #clases #metodos

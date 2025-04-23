@@ -144,5 +144,11 @@ public class WrapperBoolean {
 }
 ```
 
+## Enlaces Relacionados
+- [[Java.md]]
+- [[Java/Clases y Objetos/01_Clases_y_objetos]]
+- [[Java/Clases y Objetos/02_Atributos_y_metodos_de_clases]]
+- [[Java/Clases y Objetos/03_Constructores]]
+- [[Java/Clases y Objetos/04_Modificadores_de_acceso]]
 
-
+#java #clases #wrapper

@@ -1,4 +1,3 @@
-
 ---
 
 ## ¡Protegiendo los Tesoros de Nuestra Casa! 🛡️ (Modificadores de Acceso y Encapsulamiento)
@@ -115,5 +114,14 @@ public void setColorPuerta(String nuevoColor) {
     
 
 ¡Así mantienes tus clases ordenadas, seguras y fáciles de usar! 😄
+
+## Enlaces Relacionados
+- [[Java.md]]
+- [[Java/Clases y Objetos/01_Clases_y_objetos]]
+- [[Java/Clases y Objetos/02_Atributos_y_metodos_de_clases]]
+- [[Java/Clases y Objetos/03_Constructores]]
+- [[Java/Clases y Objetos/05_Clases_wrapper]]
+
+#java #clases #modificadores
 
 ---
