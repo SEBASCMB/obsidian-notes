@@ -11,14 +11,10 @@
             "id": "032b576c09bd2a05",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Java/6. Flujos de control.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "6. Flujos de control"
+              "title": "Nueva pestaña"
             }
           }
         ]
@@ -61,7 +57,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Buscar"
             }
           },
           {
@@ -166,52 +162,53 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "032b576c09bd2a05",
+  "active": "7f36750be55fd27a",
   "lastOpenFiles": [
-    "Java/1. Tipos de datos.md",
-    "Java/2. Concatenaciones.md",
-    "Java/3. Tipo var en java.md",
-    "Java/4. Constantes en Java.md",
-    "Java/5. Variables primitivas.md",
-    "Java/6. Flujos de control.md",
+    "Principios SOLID y CLEAN CODE/Nomenclatura y Organización/04_Nombres_de_funciones_argumentos_y_parametros.md",
+    "Principios SOLID y CLEAN CODE/Nomenclatura y Organización/03_Clases.md",
+    "Principios SOLID y CLEAN CODE/Nomenclatura y Organización/02_Nombre_de_variables_segun_tipo_de_dato.md",
+    "Principios SOLID y CLEAN CODE/Nomenclatura y Organización/01_Nombre_pronunciable_y_expresivos.md",
+    "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/03_Principio_DRY.md",
+    "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/02_Recomendaciones_en_funciones.md",
+    "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/01_Deuda_tecnica.md",
+    "PostgreSQL/Comandos Básicos/01_Comandos_Basicos_psql.md",
+    "PostgreSQL/Configuración y Seguridad/01_Cambiar_metodo_autenticacion_pg_hba_conf.md",
+    "JavaScript/Fundamentos/04_Concatenaciones.md",
+    "JavaScript/Fundamentos/03_Consola.md",
+    "JavaScript/Fundamentos/02_Variables.md",
+    "JavaScript/Fundamentos/01_Comentarios.md",
+    "Java/Clases y Objetos/05_Clases_wrapper.md",
+    "Java/Clases y Objetos/04_Modificadores_de_acceso.md",
+    "Java/Clases y Objetos/03_Constructores.md",
+    "Java/Clases y Objetos/02_Atributos_y_metodos_de_clases.md",
+    "Java/Clases y Objetos/01_Clases_y_objetos.md",
+    "Java/Operaciones con Strings/01_Concatenaciones.md",
+    "Java/Tipos de Datos y Variables/04_Variables_primitivas.md",
+    "Java/Tipos de Datos y Variables/03_Constantes_en_Java.md",
+    "Java/Tipos de Datos y Variables/02_Tipo_var_en_java.md",
+    "Java/Tipos de Datos y Variables/01_Tipos_de_datos.md",
+    "Fundamentos/Control de Flujo/02_Loops.md",
+    "Fundamentos/Control de Flujo/01_Condicionales.md",
+    "Fundamentos/Funciones/03_Funciones_void_Funciones_return.md",
+    "Private/JSON",
+    "Principios SOLID y CLEAN CODE/Nomenclatura y Organización",
+    "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas",
+    "PostgreSQL/Comandos Básicos",
+    "PostgreSQL/Configuración y Seguridad",
+    "JavaScript/Fundamentos",
+    "Java/Control de Flujo",
+    "Java/Clases y Objetos",
+    "Java/Operaciones con Strings",
+    "Java/Tipos de Datos y Variables",
     "Imagenes/Pasted image 20250414202015.png",
     "Imagenes/Pasted image 20250414202000.png",
     "Imagenes/Pasted image 20250414201939.png",
     "Imagenes/Pasted image 20250414201711.png",
     "Imagenes/Pasted image 20250414201557.png",
     "Imagenes/Pasted image 20250414201532.png",
-    "Private/JSON.md",
-    "Private",
     "Imagenes/Pasted image 20250406200903.png",
     "Imagenes/Pasted image 20250406200834.png",
-    "Principios SOLID y CLEAN CODE/7. Principio DRY.md",
-    "SUS.md",
-    "Principios SOLID y CLEAN CODE/1. Deuda técnica.md",
-    "Principios SOLID y CLEAN CODE/2. Nombre pronunciable y expresivos.md",
-    "Principios SOLID y CLEAN CODE/3. Nombre de variables según tipo de dato.md",
-    "Principios SOLID y CLEAN CODE/4. Clases.md",
-    "Principios SOLID y CLEAN CODE/5. Nombres de funciones, argumentos y parámetros.md",
-    "Principios SOLID y CLEAN CODE/6. Recomendaciones en funciones.md",
-    "Fundamentos/8. Loops.md",
-    "Principios SOLID y CLEAN CODE",
-    "README.md",
-    "LICENSE.md",
-    "Fundamentos/7. Condicionales.md",
-    "Fundamentos/6. Funciones void - Funciones return.md",
-    "Fundamentos/5. Funciones que retornan valores.md",
-    "Fundamentos/4. Funciones y como pensar en ellas.md",
-    "Fundamentos/3. Arreglos-Arrays.md",
-    "Fundamentos/2. Como y que significa realmente crear una variable.md",
-    "Fundamentos/1. Como lee el código para un computador.md",
     "Imagenes/Pasted image 20250330133820.png",
-    "Imagenes/Pasted image 20250330133742.png",
-    "Imagenes",
-    "React",
-    "Rust",
-    "Goolang",
-    "Fundamentos",
-    "JavaScript/2. Consola",
-    "JavaScript",
-    "Java"
+    "Imagenes/Pasted image 20250330133742.png"
   ]
 }
