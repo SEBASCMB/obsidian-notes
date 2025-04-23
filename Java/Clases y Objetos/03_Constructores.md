@@ -1,5 +1,3 @@
----
-
 ## ¡Construyendo Cosas en Java con Constructores! 🏗️🏠
 
 Imagina que Java es como un mundo de LEGOs gigantes. Tienes **planos** (que llamamos clases) para construir cosas geniales, como una casa 🏠, un coche 🚗 o un robot 🤖.

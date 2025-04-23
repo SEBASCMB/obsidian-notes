@@ -1,11 +1,11 @@
 {
-  "nodes": [
-    {"id": "postgresql", "type": "note", "label": "PostgreSQL", "note": "PostgreSQL.md", "x": 0, "y": 0},
-    {"id": "comandos", "type": "note", "label": "Comandos Básicos", "note": "PostgreSQL/Comandos Básicos", "x": 250, "y": -100},
-    {"id": "configuracion", "type": "note", "label": "Configuración y Seguridad", "note": "PostgreSQL/Configuración y Seguridad", "x": 250, "y": 100}
-  ],
-  "edges": [
-    {"from": "postgresql", "to": "comandos"},
-    {"from": "postgresql", "to": "configuracion"}
-  ]
+	"nodes":[
+		{"id":"postgresql","type":"note","label":"PostgreSQL","note":"PostgreSQL.md","x":0,"y":0},
+		{"id":"comandos","type":"note","label":"Comandos Básicos","note":"PostgreSQL/Comandos Básicos","x":250,"y":-100},
+		{"id":"configuracion","type":"note","label":"Configuración y Seguridad","note":"PostgreSQL/Configuración y Seguridad","x":250,"y":100}
+	],
+	"edges":[
+		{"from":"postgresql","to":"comandos"},
+		{"from":"postgresql","to":"configuracion"}
+	]
 }

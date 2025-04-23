@@ -11,10 +11,17 @@
             "id": "032b576c09bd2a05",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "Nueva pestaña"
+              "type": "canvas",
+              "state": {
+                "file": "PostgreSQL-MapaMental.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "PostgreSQL-MapaMental"
             }
           }
         ]
@@ -144,8 +151,29 @@
               "icon": "lucide-list",
               "title": "Outline of Welcome"
             }
+          },
+          {
+            "id": "9f18c2fb55bda511",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {},
+              "icon": "BC-trail-icon",
+              "title": "Breadcrumbs Matrix"
+            }
+          },
+          {
+            "id": "356abf74ffcb0c43",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {},
+              "icon": "feather-corner-right-down",
+              "title": "Breadcrumbs Down"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -159,37 +187,43 @@
       "canvas:Crear nuevo lienzo": false,
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
-      "command-palette:Abrir paleta de comandos": false
+      "command-palette:Abrir paleta de comandos": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false
     }
   },
-  "active": "7f36750be55fd27a",
+  "active": "032b576c09bd2a05",
   "lastOpenFiles": [
-    "Principios SOLID y CLEAN CODE/Nomenclatura y Organización/04_Nombres_de_funciones_argumentos_y_parametros.md",
-    "Principios SOLID y CLEAN CODE/Nomenclatura y Organización/03_Clases.md",
-    "Principios SOLID y CLEAN CODE/Nomenclatura y Organización/02_Nombre_de_variables_segun_tipo_de_dato.md",
-    "Principios SOLID y CLEAN CODE/Nomenclatura y Organización/01_Nombre_pronunciable_y_expresivos.md",
-    "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/03_Principio_DRY.md",
-    "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/02_Recomendaciones_en_funciones.md",
-    "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/01_Deuda_tecnica.md",
-    "PostgreSQL/Comandos Básicos/01_Comandos_Basicos_psql.md",
-    "PostgreSQL/Configuración y Seguridad/01_Cambiar_metodo_autenticacion_pg_hba_conf.md",
-    "JavaScript/Fundamentos/04_Concatenaciones.md",
-    "JavaScript/Fundamentos/03_Consola.md",
-    "JavaScript/Fundamentos/02_Variables.md",
-    "JavaScript/Fundamentos/01_Comentarios.md",
+    "LICENSE.md",
+    "JavaScript.md",
+    "Java-MapaMental.canvas",
+    "Java.md",
+    "Fundamentos-MapaMental.canvas",
+    "Fundamentos/Control de Flujo/01_Condicionales.md",
+    "Fundamentos.md",
+    "Fundamentos/Funciones.md",
+    "Fundamentos/Variables y Tipos de Datos/01_Como_y_que_significa_realmente_crear_una_variable.md",
+    "Fundamentos/Mentalidad y Conceptos Básicos/02_Como_lee_el_codigo_para_un_computador.md",
+    "Fundamentos/Mentalidad y Conceptos Básicos/01_Mentalidad_programador.md",
+    "Fundamentos/Funciones/03_Funciones_void_Funciones_return.md",
+    "Fundamentos/Funciones/02_Funciones_que_retornan_valores.md",
+    "Fundamentos/Funciones/01_Funciones_y_como_pensar_en_ellas.md",
+    "Fundamentos/Estructuras de Datos/01_Arreglos_Arrays.md",
+    "Fundamentos/Control de Flujo/02_Loops.md",
     "Java/Clases y Objetos/05_Clases_wrapper.md",
     "Java/Clases y Objetos/04_Modificadores_de_acceso.md",
     "Java/Clases y Objetos/03_Constructores.md",
     "Java/Clases y Objetos/02_Atributos_y_metodos_de_clases.md",
     "Java/Clases y Objetos/01_Clases_y_objetos.md",
-    "Java/Operaciones con Strings/01_Concatenaciones.md",
-    "Java/Tipos de Datos y Variables/04_Variables_primitivas.md",
-    "Java/Tipos de Datos y Variables/03_Constantes_en_Java.md",
-    "Java/Tipos de Datos y Variables/02_Tipo_var_en_java.md",
-    "Java/Tipos de Datos y Variables/01_Tipos_de_datos.md",
-    "Fundamentos/Control de Flujo/02_Loops.md",
-    "Fundamentos/Control de Flujo/01_Condicionales.md",
-    "Fundamentos/Funciones/03_Funciones_void_Funciones_return.md",
+    "JavaScript/Fundamentos/04_Concatenaciones.md",
+    "JavaScript/Fundamentos/03_Consola.md",
+    "JavaScript/Fundamentos/02_Variables.md",
+    "JavaScript/Fundamentos/01_Comentarios.md",
+    "PostgreSQL/Configuración y Seguridad/01_Cambiar_metodo_autenticacion_pg_hba_conf.md",
+    "PostgreSQL/Comandos Básicos/01_Comandos_Basicos_psql.md",
+    "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/03_Principio_DRY.md",
+    "Principios_SOLID_y_CLEAN_CODE-MapaMental.canvas",
+    "PostgreSQL-MapaMental.canvas",
     "Private/JSON",
     "Principios SOLID y CLEAN CODE/Nomenclatura y Organización",
     "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas",

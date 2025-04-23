@@ -1,5 +1,3 @@
----
-
 ## Más Secretos para Funciones Increíbles: Simplicidad, Tamaño y Claridad ✨
 
 Además de nombres precisos y parámetros bien gestionados, hay otras prácticas que elevan la calidad de tus funciones a nivel profesional. ¡Veamos cómo hacerlas brillar!

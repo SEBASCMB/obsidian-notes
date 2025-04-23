@@ -1,23 +1,23 @@
 {
-  "nodes": [
-    {"id": "java", "type": "note", "label": "Java", "note": "Java.md", "x": 0, "y": 0},
-    {"id": "clases", "type": "note", "label": "Clases y Objetos", "note": "Java/Clases y Objetos/01_Clases_y_objetos.md", "x": 250, "y": -100},
-    {"id": "atributos", "type": "note", "label": "Atributos y Métodos", "note": "Java/Clases y Objetos/02_Atributos_y_metodos_de_clases.md", "x": 500, "y": -100},
-    {"id": "constructores", "type": "note", "label": "Constructores", "note": "Java/Clases y Objetos/03_Constructores.md", "x": 750, "y": -100},
-    {"id": "modificadores", "type": "note", "label": "Modificadores de Acceso", "note": "Java/Clases y Objetos/04_Modificadores_de_acceso.md", "x": 1000, "y": -100},
-    {"id": "wrapper", "type": "note", "label": "Clases Wrapper", "note": "Java/Clases y Objetos/05_Clases_wrapper.md", "x": 1250, "y": -100},
-    {"id": "flujo", "type": "note", "label": "Control de Flujo", "note": "Java/Control de Flujo", "x": 250, "y": 100},
-    {"id": "strings", "type": "note", "label": "Operaciones con Strings", "note": "Java/Operaciones con Strings", "x": 500, "y": 100},
-    {"id": "tipos", "type": "note", "label": "Tipos de Datos y Variables", "note": "Java/Tipos de Datos y Variables", "x": 750, "y": 100}
-  ],
-  "edges": [
-    {"from": "java", "to": "clases"},
-    {"from": "clases", "to": "atributos"},
-    {"from": "atributos", "to": "constructores"},
-    {"from": "constructores", "to": "modificadores"},
-    {"from": "modificadores", "to": "wrapper"},
-    {"from": "java", "to": "flujo"},
-    {"from": "java", "to": "strings"},
-    {"from": "java", "to": "tipos"}
-  ]
+	"nodes":[
+		{"id":"java","type":"note","label":"Java","note":"Java.md","x":0,"y":0},
+		{"id":"clases","type":"note","label":"Clases y Objetos","note":"Java/Clases y Objetos/01_Clases_y_objetos.md","x":250,"y":-100},
+		{"id":"atributos","type":"note","label":"Atributos y Métodos","note":"Java/Clases y Objetos/02_Atributos_y_metodos_de_clases.md","x":500,"y":-100},
+		{"id":"constructores","type":"note","label":"Constructores","note":"Java/Clases y Objetos/03_Constructores.md","x":750,"y":-100},
+		{"id":"modificadores","type":"note","label":"Modificadores de Acceso","note":"Java/Clases y Objetos/04_Modificadores_de_acceso.md","x":1000,"y":-100},
+		{"id":"wrapper","type":"note","label":"Clases Wrapper","note":"Java/Clases y Objetos/05_Clases_wrapper.md","x":1250,"y":-100},
+		{"id":"flujo","type":"note","label":"Control de Flujo","note":"Java/Control de Flujo","x":250,"y":100},
+		{"id":"strings","type":"note","label":"Operaciones con Strings","note":"Java/Operaciones con Strings","x":500,"y":100},
+		{"id":"tipos","type":"note","label":"Tipos de Datos y Variables","note":"Java/Tipos de Datos y Variables","x":750,"y":100}
+	],
+	"edges":[
+		{"from":"java","to":"clases"},
+		{"from":"clases","to":"atributos"},
+		{"from":"atributos","to":"constructores"},
+		{"from":"constructores","to":"modificadores"},
+		{"from":"modificadores","to":"wrapper"},
+		{"from":"java","to":"flujo"},
+		{"from":"java","to":"strings"},
+		{"from":"java","to":"tipos"}
+	]
 }

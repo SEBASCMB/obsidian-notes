@@ -1,5 +1,3 @@
----
-
 ## Entendiendo la Deuda Técnica en el Desarrollo de Software ⚙️
 
 Imagina la deuda técnica como una **"hipoteca" 🏦 sobre tu software**. Es el resultado de tomar atajos o decisiones de diseño/implementación subóptimas (sacrificar calidad) para acelerar la entrega a corto plazo. Esta "deuda" genera "intereses" en forma de costos futuros, que se manifiestan principalmente como **tiempo y esfuerzo extra**, impactando negativamente la evolución y mantenimiento del producto.

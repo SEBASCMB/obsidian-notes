@@ -1,5 +1,3 @@
----
-
 ## ✨ Principio DRY: ¡No Te Repitas! (Don't Repeat Yourself) ✨
 
 *"Si quieres ser un programador productivo esfuérzate en escribir código legible"* - _(Esta cita es genial, ¡porque aplicar DRY ayuda directamente a la legibilidad!)_

@@ -1,5 +1,3 @@
----
-
 ## ¡Aprendiendo sobre Clases y Objetos! 🧱🏠 (Como construir con LEGOs Mágicos)
 
 ¡Hola! 👋 Hoy vamos a aprender algo genial sobre cómo se organizan las cosas en la programación. Imagina que tienes unos LEGOs mágicos que te permiten crear cualquier cosa.

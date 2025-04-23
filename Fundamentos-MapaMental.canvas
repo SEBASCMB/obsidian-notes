@@ -1,19 +1,19 @@
 {
-  "nodes": [
-    {"id": "fundamentos", "type": "note", "label": "Fundamentos", "note": "Fundamentos.md", "x": 0, "y": 0},
-    {"id": "flujo", "type": "note", "label": "Control de Flujo", "note": "Fundamentos/Control de Flujo/01_Condicionales.md", "x": 250, "y": -100},
-    {"id": "loops", "type": "note", "label": "Loops", "note": "Fundamentos/Control de Flujo/02_Loops.md", "x": 500, "y": -100},
-    {"id": "estructuras", "type": "note", "label": "Estructuras de Datos", "note": "Fundamentos/Estructuras de Datos", "x": 250, "y": 100},
-    {"id": "funciones", "type": "note", "label": "Funciones", "note": "Fundamentos/Funciones", "x": 500, "y": 100},
-    {"id": "mentalidad", "type": "note", "label": "Mentalidad y Conceptos Básicos", "note": "Fundamentos/Mentalidad y Conceptos Básicos", "x": 750, "y": 100},
-    {"id": "variables", "type": "note", "label": "Variables y Tipos de Datos", "note": "Fundamentos/Variables y Tipos de Datos", "x": 1000, "y": 100}
-  ],
-  "edges": [
-    {"from": "fundamentos", "to": "flujo"},
-    {"from": "flujo", "to": "loops"},
-    {"from": "fundamentos", "to": "estructuras"},
-    {"from": "fundamentos", "to": "funciones"},
-    {"from": "fundamentos", "to": "mentalidad"},
-    {"from": "fundamentos", "to": "variables"}
-  ]
+	"nodes":[
+		{"id":"fundamentos","type":"note","label":"Fundamentos","note":"Fundamentos.md","x":0,"y":0},
+		{"id":"flujo","type":"note","label":"Control de Flujo","note":"Fundamentos/Control de Flujo/01_Condicionales.md","x":250,"y":-100},
+		{"id":"loops","type":"note","label":"Loops","note":"Fundamentos/Control de Flujo/02_Loops.md","x":500,"y":-100},
+		{"id":"estructuras","type":"note","label":"Estructuras de Datos","note":"Fundamentos/Estructuras de Datos","x":250,"y":100},
+		{"id":"funciones","type":"note","label":"Funciones","note":"Fundamentos/Funciones","x":500,"y":100},
+		{"id":"mentalidad","type":"note","label":"Mentalidad y Conceptos Básicos","note":"Fundamentos/Mentalidad y Conceptos Básicos","x":750,"y":100},
+		{"id":"variables","type":"note","label":"Variables y Tipos de Datos","note":"Fundamentos/Variables y Tipos de Datos","x":1000,"y":100}
+	],
+	"edges":[
+		{"from":"fundamentos","to":"flujo"},
+		{"from":"flujo","to":"loops"},
+		{"from":"fundamentos","to":"estructuras"},
+		{"from":"fundamentos","to":"funciones"},
+		{"from":"fundamentos","to":"mentalidad"},
+		{"from":"fundamentos","to":"variables"}
+	]
 }

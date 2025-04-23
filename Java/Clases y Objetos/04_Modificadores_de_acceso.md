@@ -1,5 +1,3 @@
----
-
 ## ¡Protegiendo los Tesoros de Nuestra Casa! 🛡️ (Modificadores de Acceso y Encapsulamiento)
 
 Imagina que dentro de tu objeto Casa 🏠 tienes cosas importantes, como el número de habitaciones 🛏️ o el color de la puerta 🚪. ¡Estos son tus **atributos** (datos)!

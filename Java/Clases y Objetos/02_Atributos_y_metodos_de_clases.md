@@ -1,5 +1,3 @@
----
-
 ## ¡Construyendo Nuestra Casa Mágica con Código! 🪄🧱
 
 ¡Imagina que somos arquitectos de computadoras! 👷‍♀️💻 Vamos a usar un lenguaje mágico (Java) para crear el **plano** de una casa y luego ¡construir una casa de verdad!
