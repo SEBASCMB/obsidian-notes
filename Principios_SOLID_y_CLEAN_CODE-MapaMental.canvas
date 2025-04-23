@@ -1,0 +1,17 @@
+{
+  "nodes": [
+    {"id": "solid", "type": "note", "label": "Principios SOLID y CLEAN CODE", "note": "Principios_SOLID_y_CLEAN_CODE.md", "x": 0, "y": 0},
+    {"id": "deuda", "type": "note", "label": "Deuda Técnica", "note": "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/01_Deuda_tecnica.md", "x": 250, "y": -100},
+    {"id": "funciones", "type": "note", "label": "Recomendaciones en Funciones", "note": "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/02_Recomendaciones_en_funciones.md", "x": 500, "y": -100},
+    {"id": "dry", "type": "note", "label": "Principio DRY", "note": "Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/03_Principio_DRY.md", "x": 750, "y": -100},
+    {"id": "nomenclatura", "type": "note", "label": "Nomenclatura y Organización", "note": "Principios SOLID y CLEAN CODE/Nomenclatura y Organización", "x": 250, "y": 100}
+  ],
+  "edges": [
+    {"from": "solid", "to": "deuda"},
+    {"from": "solid", "to": "funciones"},
+    {"from": "solid", "to": "dry"},
+    {"from": "solid", "to": "nomenclatura"},
+    {"from": "deuda", "to": "funciones"},
+    {"from": "funciones", "to": "dry"}
+  ]
+}
