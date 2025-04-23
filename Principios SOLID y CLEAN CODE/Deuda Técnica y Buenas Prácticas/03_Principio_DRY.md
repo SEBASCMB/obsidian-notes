@@ -1,4 +1,3 @@
-
 ---
 
 ## ✨ Principio DRY: ¡No Te Repitas! (Don't Repeat Yourself) ✨
@@ -91,3 +90,10 @@ print(f"Oferta especial en página: ${precio_final_pagina}")
 Aplicar el principio DRY no es solo una técnica para evitar copiar y pegar. Es una **filosofía** que te ayuda a pensar de forma más estructurada sobre tu código. Te empuja a diseñar sistemas más **mantenibles, robustos, legibles y menos propensos a errores**.
 
 ¡Así que la próxima vez que estés a punto de copiar ese bloque de código, detente un momento ⏸️ y piensa si puedes aplicar el principio DRY! Tu yo del futuro (y tus compañeros de equipo) te lo agradecerán. 😉💪
+
+## Enlaces Relacionados
+- [[Principios_SOLID_y_CLEAN_CODE.md]]
+- [[Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/01_Deuda_tecnica]]
+- [[Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/02_Recomendaciones_en_funciones]]
+
+#solid #dry #buenaspracticas

@@ -1,4 +1,3 @@
-
 ---
 
 ## Más Secretos para Funciones Increíbles: Simplicidad, Tamaño y Claridad ✨
@@ -206,3 +205,10 @@ function calculateDiscount(price: number, user: User): number {
 **En Conclusión:**
 
 Busca siempre la **simplicidad** y la **claridad**. Funciones **pequeñas**, enfocadas en **una sola tarea**, que eviten complejidad innecesaria y estructuras anidadas (`else`), y que usen herramientas como los ternarios de forma **juiciosa**, son la clave para un código mantenible, legible y robusto. ¡Feliz codificación limpia! 🎉🔧
+
+## Enlaces Relacionados
+- [[Principios_SOLID_y_CLEAN_CODE.md]]
+- [[Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/01_Deuda_tecnica]]
+- [[Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/03_Principio_DRY]]
+
+#solid #buenaspracticas #funciones

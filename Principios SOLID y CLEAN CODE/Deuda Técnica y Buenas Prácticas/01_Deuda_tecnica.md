@@ -1,4 +1,3 @@
-
 ---
 
 ## Entendiendo la Deuda Técnica en el Desarrollo de Software ⚙️
@@ -95,3 +94,10 @@ Es código que es:
 **En resumen:** 🎯
 
 La deuda técnica es una metáfora poderosa en el desarrollo de software. Ser conscientes de los diferentes tipos de deuda, comprender sus consecuencias y gestionarla activamente (principalmente a través de la refactorización apoyada por pruebas) es crucial para la salud a largo plazo de cualquier proyecto. ¡Esfuérzate por escribir código limpio y no dejes que los "intereses" de la deuda te ahoguen! 💪🚀
+
+## Enlaces Relacionados
+- [[Principios_SOLID_y_CLEAN_CODE.md]]
+- [[Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/03_Principio_DRY]]
+- [[Principios SOLID y CLEAN CODE/Deuda Técnica y Buenas Prácticas/02_Recomendaciones_en_funciones]]
+
+#solid #deudatecnica #buenaspracticas
